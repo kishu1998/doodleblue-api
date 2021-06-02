@@ -1,0 +1,6 @@
+POST  http://localhost:3012/login
+Content-Type: application/json
+
+{
+    "userName":"ki"
+}
